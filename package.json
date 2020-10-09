@@ -1,0 +1,25 @@
+{
+  "name": "websith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpostaire/websith.git"
+  },
+  "author": "Colin Evrard, Maxime Postaire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpostaire/websith/issues"
+  },
+  "homepage": "https://github.com/mpostaire/websith#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
